@@ -1,0 +1,22 @@
+h1 {font-family: 'Hind', sans-serif;
+font-color: #99ccff;
+text-align: center;
+font-weight: bold;
+  }
+
+h2 {font-family: 'Open Sans', sans-serif;
+font-color: #99bbff
+  text-align: center;
+
+}
+
+ul {font-family: 'Lobster', cursive;
+font-color: #4455cc
+text-align: center;
+}
+
+ol {
+  font-family: 'Bangers', cursive;
+  font-color: #7744aa
+  text-align: center;
+}
